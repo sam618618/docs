@@ -22,7 +22,7 @@ image: https://www.linode.com/docs/assets/big_data_linode_cloud.png
 
 [Apache Storm](http://storm.apache.org/) is a big data technology that enables software, data, and infrastructure engineers to process high velocity, high volume data in real time and extract useful information. Any project that involves processing high velocity data streams in real time can benefit from it.
 
-[Zookeeper](https://zookeeper.apache.org/) is a critical distributed systems technology that Storm depends on to function correctly. 
+[Zookeeper](https://zookeeper.apache.org/)xxx is a critical distributed systems technology that Storm depends on to function correctly. 
 
 ![Big Data in the Linode Cloud: Streaming Data Processing with Apache Storm](/docs/assets/big_data_linode_cloud.png "Big Data in the Linode Cloud: Streaming Data Processing with Apache Storm")
 
